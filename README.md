@@ -13,14 +13,16 @@
     </p>
 
 -------
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm fajarnurz 😇 </h1>
+-------
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm fajarskodenz 😇 </h1>
 <p align="center">
   <img src="https://j.top4top.io/p_2138ws77j0.jpg" /></>
 </p>
 
-- 👼 My name is Fajar 
+- 👼 My name is Fajar
 - 🗣️ I am 16 years old 
-- 🔭 I am bandar bokep
+- 🔭 I am Bandar Bokep
+
 ## ```Connect with me```
 <p align="center">
   <a href="https://instagram.com/fajar.nrd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -28,10 +30,11 @@
   <a href="https://www.facebook.com/fajar.minionska.98"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/fajarxskoden"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/FajarGZ"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="  https://youtube.com/channel/UC-_PgO4W2W01BRJo47bly1g"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat" />
-
+  <a href="https://youtube.com/channel/UC-_PgO4W2W01BRJo47bly1g"><img src="https://img.shields.io/youtube/channel/subscribers/UC-_PgO4W2W01BRJo47bly1g?style=social" /> <br>
+  
 </p>
+
+
 
 ## ```How to install```
 
